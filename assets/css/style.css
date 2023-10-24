@@ -80,11 +80,11 @@ p {
     color: #ffffff;
 }
 
-.content img{
+.content div img{
         max-height: 200px;
 }
 
-.content h2{
+.content div h2{
         margin-bottom: 20px;
         font-size: 36px;
 }
